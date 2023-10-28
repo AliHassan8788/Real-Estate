@@ -1,0 +1,14 @@
+/* HERO SECION  */
+
+#hero-h1 {
+    font-size: 60px;
+    font-weight: bolder;
+    line-height: 60px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+#hero-p {
+    line-height: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+}

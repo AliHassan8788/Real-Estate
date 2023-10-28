@@ -1,10 +1,13 @@
 import React from 'react';
-import NavBar from './nav/navbar';
+import NavHero from './navhero/navhero';
+import './home.css'
 
 const Home = () => {
     return (
         <>
-            <NavBar />
+            <div id='bg-hero'>
+                    <NavHero />
+            </div>
         </>
     );
 }

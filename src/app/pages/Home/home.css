@@ -1,0 +1,12 @@
+#bg-hero {
+    position: relative;
+    /* background: linear-gradient(rgba(9, 4, 46, 0.5), rgba(4, 7, 165, 0.5)), url('../../images/hero1.jpg'); */
+    background: linear-gradient(rgba(1, 0, 7, 0.459), rgba(0, 0, 0, 0.486)), url('../../images/hero1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* height: 80vh; */
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
